@@ -20,7 +20,9 @@ def bonus
    }
   }
 
-  #code your solution here:
+  :capulet => {
+    :heroine => {status: "dead"}
+  }
 
   
 
